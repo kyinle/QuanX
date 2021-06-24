@@ -5,7 +5,7 @@
 
 #### 1、强烈推荐，真懒人配置，一劳永逸
 
-❤ 【公众号少年歌行pro多网合一订阅地址，包含下方全部仓库的脚本】 
+❤ 【少年歌行pro多网合一订阅地址，包含下方全部仓库的脚本】 
 
 https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
 
