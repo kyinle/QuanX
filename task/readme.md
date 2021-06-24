@@ -1,4 +1,4 @@
-## Quantumult X 少年歌行pro  Task任务对照表
+## Quantumult X   Task任务对照表
 
 
 可用仓库订阅地址对照表【为每个脚本作者的脚本制作了独立订阅仓库，其中全网合一仓库包含出shylocks大佬外所有仓库内容】
