@@ -1,5 +1,5 @@
 {
-    "name": "公众号少年歌行pro全网合一整理",
+    "name": "公众号kyinle全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
                "8 8 12 * * * https://ghproxy.com/https://raw.githubusercontent.com/ziye888/JavaScript/main/Task/jddsh.js, tag=京东待收货, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/pic/ziye.png, enabled=true",
