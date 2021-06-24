@@ -7,7 +7,7 @@
 
 1.复制2021版懒人包订阅地址，如下<br>
 
-https://raw.githubusercontent.com/sngxpro/QuanX/master/sngx2021.conf
+https://raw.githubusercontent.com/kyinle/QuanX/yinle/lele2021.conf
 
 2.打开QuanX，轻点右下角圆形旋转图标，然后将菜单下拉至最底端，选择“下载”<br>
 
@@ -50,7 +50,7 @@ https://raw.githubusercontent.com/sngxpro/QuanX/master/sngx2021.conf
 
 ```properties
 
-heart 【公众号少年歌行pro多网合一订阅地址，包含下方全部仓库的脚本】<br>
+heart 【少年歌行pro多网合一订阅地址，包含下方全部仓库的脚本】<br>
 
 https://raw.githubusercontent.com/sngxpro/QuanX/master/task/AllinOne.json
 
